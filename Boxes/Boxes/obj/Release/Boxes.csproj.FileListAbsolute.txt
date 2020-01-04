@@ -1,0 +1,10 @@
+/Users/sandro/projects/MW3/Boxes/Boxes/bin/Release/Boxes.dll
+/Users/sandro/projects/MW3/Boxes/Boxes/bin/Release/addon_1413.dll
+/Users/sandro/projects/MW3/Boxes/Boxes/obj/Release/Boxes.csproj.CopyComplete
+/Users/sandro/projects/MW3/Boxes/Boxes/obj/Release/Boxes.dll
+/Users/sandro/projects/MW3/Boxes/Boxes/obj/Release/Boxes.csprojAssemblyReference.cache
+/Users/sandro/projects/MW3/GITHUB REPOSITORY/Boxes/Boxes/bin/Release/Boxes.dll
+/Users/sandro/projects/MW3/GITHUB REPOSITORY/Boxes/Boxes/bin/Release/addon_1413.dll
+/Users/sandro/projects/MW3/GITHUB REPOSITORY/Boxes/Boxes/obj/Release/Boxes.csprojAssemblyReference.cache
+/Users/sandro/projects/MW3/GITHUB REPOSITORY/Boxes/Boxes/obj/Release/Boxes.csproj.CopyComplete
+/Users/sandro/projects/MW3/GITHUB REPOSITORY/Boxes/Boxes/obj/Release/Boxes.dll

@@ -1,0 +1,8 @@
+/Users/sandro/projects/MW3/Boxes/Boxes/bin/Debug/Boxes.dll
+/Users/sandro/projects/MW3/Boxes/Boxes/bin/Debug/Boxes.pdb
+/Users/sandro/projects/MW3/Boxes/Boxes/bin/Debug/addon_1413.dll
+/Users/sandro/projects/MW3/Boxes/Boxes/obj/Debug/Boxes.csprojAssemblyReference.cache
+/Users/sandro/projects/MW3/Boxes/Boxes/obj/Debug/Boxes.csproj.CoreCompileInputs.cache
+/Users/sandro/projects/MW3/Boxes/Boxes/obj/Debug/Boxes.csproj.CopyComplete
+/Users/sandro/projects/MW3/Boxes/Boxes/obj/Debug/Boxes.dll
+/Users/sandro/projects/MW3/Boxes/Boxes/obj/Debug/Boxes.pdb
